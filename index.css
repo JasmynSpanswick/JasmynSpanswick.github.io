@@ -213,6 +213,7 @@ cursor: pointer;
   display: block;
  margin: auto;
  padding-top: 50px;
+  height: 500px;
 }
 
 .contents{
