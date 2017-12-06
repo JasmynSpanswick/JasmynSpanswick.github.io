@@ -213,7 +213,6 @@ cursor: pointer;
   display: block;
  margin: auto;
  padding-top: 50px;
-  height: 500px;
 }
 
 .contents{
@@ -223,7 +222,6 @@ cursor: pointer;
 .container {
   width: 750px;
   margin: auto;
-  height: 500px;
 }
 
 ul.social-network {
