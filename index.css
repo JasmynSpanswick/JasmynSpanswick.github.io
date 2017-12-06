@@ -223,6 +223,7 @@ cursor: pointer;
 .container {
   width: 750px;
   margin: auto;
+  height: 500px;
 }
 
 ul.social-network {
